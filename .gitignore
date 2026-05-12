@@ -1,0 +1,10 @@
+.env
+*.zip
+/public/uploads/
+/uploads/
+*.log
+.DS_Store
+node_modules/
+vendor/
+.idea/
+.vscode/
