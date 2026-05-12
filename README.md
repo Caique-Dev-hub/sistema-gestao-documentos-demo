@@ -1,4 +1,4 @@
-# Sistema de Gestão de Documentos - Demo
+# Sistema de Gestão de Documentos
 
 Sistema web desenvolvido em PHP e MySQL para gerenciamento de clientes, usuários, setores, tipos de documentos e uploads.
 
